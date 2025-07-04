@@ -32,7 +32,7 @@ This project aims to establish a comprehensive digital twin framework for photov
 ## ⚙️ Setup Instructions
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Cygnus-Team/A-Digital-Twin-Framework-for-PV-Panels.git
+   git clone https://github.com/mryaman/DT
    cd services
    ```
 2. **Build and Run with Docker Compose:**
@@ -47,8 +47,8 @@ This project aims to establish a comprehensive digital twin framework for photov
 ## 📧 Contact
 For further details or collaboration inquiries, please contact:
 
-- **Research Team:** [Cygnus-Team]
-- **Github:** https://github.com/Cygnus-Team
+- **Research Team:** 
+- **Github:** https://github.com/mryaman
 
 ---
 *This project is part of the submission to WCNC 2025 WS09: TwinNetApp.*
